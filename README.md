@@ -51,4 +51,3 @@ From the EDA and dashboard exploration, the following business insights were der
 
 ---
 
-## 📂 Project Structure
